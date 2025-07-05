@@ -7,25 +7,26 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Weichao Luo is an assistant researcher of intelligent systems institute with the department of networked intelligence, Pengcheng Laboratory, Shenzhen, Guangdong, China. His current research interests are digital twin，knowledge-enhanced LLM and AR/VR for industry and healthcare. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+The intelligent systems institute relies on major scientific research infrastructure such as the Pengcheng Cloud Brain (a super intelligent computing platform), and focuses on major national needs such as industry and healthcare to conducts in-depth research on basic methods and system applications for the deep integration of new-generation information technology and industrial applications, and provides core technical support for the digital transformation and intelligent development. At present, the team focuses on three research directions: knowledge-enhanced LLM, smart healthcare, and industrial intelligence.
+
 
 Research Fields
 ======
-Complex engineering simulation calculation and optimization driven by large models;
-Digital modeling and dynamic interaction of industrial equipment
-Digital twin intelligent application system,
-Industrial AR/VR and other interactive technologies
+1. Digital twin modeling and dynamic interaction;
+2. Knowledge-enhanced LLM and intelligent application system;
+3. AR/VR and immersive interaction;
 
 Educational background
 ======
-2014.09-2020.10, Shandong University, China, Ph.D. in Mechanical Manufacturing and Automation 2010.09-2014.06, Tianjin University, China, Bachelor of Mechanical Design, Manufacturing and Automation
+1. 2014.09-2020.10, PHD, Mechanical Manufacturing and Automation, Shandong University, China;
+2. 2010.09-2014.06, Bachelor, Mechanical Manufacturing and Automation, Tianjin University, China;
 
 Work experience
 ======
-2020.11-2023.2, China, Industrial Intelligence Basic Research Laboratory, Pengcheng Laboratory, Postdoctoral 
-2023.2-Present, China, Industrial Intelligence Basic Research Laboratory, Pengcheng Laboratory, Assistant Researcher Research Projects
+1. 2022.12-Present, Assistant Researcher, Pengcheng Laboratory, China;
+2. 2020.11-2022.11, Postdoctor, Pengcheng Laboratory, China;
 ======
 
 A data-driven personal website
