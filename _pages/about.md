@@ -10,7 +10,7 @@ redirect_from:
 Weichao Luo is an assistant researcher of intelligent systems institute with the department of networked intelligence, Pengcheng Laboratory, Shenzhen, Guangdong, China. His current research interests are digital twin，knowledge-enhanced LLM and AR/VR for industry and healthcare. 
 
 The intelligent systems institute relies on major scientific research infrastructure such as the Pengcheng Cloud Brain (a super intelligent computing platform), and focuses on major national needs such as industry and healthcare to conducts in-depth research on basic methods and system applications for the deep integration of new-generation information technology and industrial applications, and provides core technical support for the digital transformation and intelligent development. At present, the team focuses on three research directions: knowledge-enhanced LLM, smart healthcare, and industrial intelligence.
-
+![研究内容图](./images/Research.png)
 
 Research Fields
 ======
