@@ -47,11 +47,17 @@ Representative works (*corresponding author)
 2. Han Z, Luo W*, Liu C, et al. A three-layer digital twin architecture for granular bed profile prediction in rotary kiln[J]. Advanced Powder Technology, 2025, 36(7): 104930.
 3. Liu, C., Yuan, Z., Wang, Y., Yin, Y., Luo, W.*, He, Z., & Liang, X. (2025, May). MR-IntelliAssist: A World Cognition Agent Enabling Adaptive Human-AI Symbiosis in Industry 4.0. In International Conference on Human-Computer Interaction (pp. 163-177). Cham: Springer Nature Switzerland.
 4. Yin, Y., Liu, Y., Liang, X., Luo, W.*, Yang, C., & Gui, W. (2025). Adaptive Data-Driven Soft-Sensor for Monitoring and Prediction of Temperature Inside Zinc Rotary Kiln. IEEE Sensors Journal.
-5. Luo W, Huang K, Liang X, et al. Process Manufacturing Intelligence Empowered by Industrial Metaverse: A survey[J]. IEEE Transactions on Cybernetics, 2023, minor revision.
-6. Luo W, Liang X, Huang K, et al. Soft sensing framework for key variables in zinc rotary kiln based on digital twin [J]. IEEE Transactions on Industrial Informatics, 2023, second revision.
-7. Luo W, Hu T, Ye Y, et al. A hybrid predictive maintenance approach for CNC machine tool driven by Digital Twin[J]. Robotics and Computer-Integrated Manufacturing, 2020, 65: 101974.(IF=10.33)
+5. Luo W, Huang K, Liang X, et al. Process manufacturing intelligence empowered by industrial metaverse: A survey[J]. IEEE Transactions on Cybernetics, 2024.
+6. Luo W, Yang C, Liang X, et al. Digital twin driven soft sensing for key variables in zinc rotary kiln[J]. IEEE Transactions on Industrial Informatics, 2024, 20(4): 6673-6683.
+7. Luo W, Hu T, Ye Y, et al. A hybrid predictive maintenance approach for CNC machine tool driven by Digital Twin[J]. Robotics and Computer-Integrated Manufacturing, 2020, 65: 101974.
 8. Luo W, Hu T, Zhang C, et al. Digital twin for CNC machine tool: modeling and using strategy[J]. Journal of Ambient Intelligence and Humanized Computing, 2019, 10: 1129-1140.
-
+9. Wei Y, Hu T, Yue P, et al. Study on the construction theory of digital twin mechanism model for mechatronics equipment[J]. The International Journal of Advanced Manufacturing Technology, 2024, 131(11): 5383-5401.
+10. Jiang Z, Xu C, Liu J, et al. A Dual Closed-Loop Digital Twin Construction Method for Optimizing the Copper Disc Casting Process[J]. IEEE/CAA Journal of Automatica Sinica, 2024, 11(3): 581-594.
+11. Jiang Z, Liu J, Chen Z, et al. Overall particle size distribution estimation method based on kinetic modeling and transformer prediction[J]. Engineering Applications of Artificial Intelligence, 2024, 128: 107517.
+12. Liu J, Jiang Z, Gui W, et al. Hierarchical packing model: Estimating the overall particle size distribution from surface images and permeability properties[J]. IEEE Transactions on Instrumentation and Measurement, 2023, 73: 1-11.
+13. Liu J, Jiang Z, Gui W, et al. Digital Twin Modeling and Transformer Prediction-Based Overall Particle Size Distribution Online Estimation[C]//2023 China Automation Congress (CAC). IEEE, 2023: 757-762.
+14. Wei Y, Hu T, Zhou T, et al. Consistency retention method for CNC machine tool digital twin model[J]. Journal of Manufacturing Systems, 2021, 58: 313-322.
+15. Chen Z, Deng Q, Zhao Z, et al. Application of just-in-time-learning CCA to the health monitoring of a real cold source system[J]. IFAC-PapersOnLine, 2022, 55(6): 23-30.
 
 Recruitment announcement
 ======
