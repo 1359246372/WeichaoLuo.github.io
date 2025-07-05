@@ -47,13 +47,11 @@ Representative works (*corresponding author)
 2. Han Z, Luo W*, Liu C, et al. A three-layer digital twin architecture for granular bed profile prediction in rotary kiln[J]. Advanced Powder Technology, 2025, 36(7): 104930.
 3. Liu, C., Yuan, Z., Wang, Y., Yin, Y., Luo, W.*, He, Z., & Liang, X. (2025, May). MR-IntelliAssist: A World Cognition Agent Enabling Adaptive Human-AI Symbiosis in Industry 4.0. In International Conference on Human-Computer Interaction (pp. 163-177). Cham: Springer Nature Switzerland.
 4. Yin, Y., Liu, Y., Liang, X., Luo, W.*, Yang, C., & Gui, W. (2025). Adaptive Data-Driven Soft-Sensor for Monitoring and Prediction of Temperature Inside Zinc Rotary Kiln. IEEE Sensors Journal.
+5. Luo W, Huang K, Liang X, et al. Process Manufacturing Intelligence Empowered by Industrial Metaverse: A survey[J]. IEEE Transactions on Cybernetics, 2023, minor revision.
+6. Luo W, Liang X, Huang K, et al. Soft sensing framework for key variables in zinc rotary kiln based on digital twin [J]. IEEE Transactions on Industrial Informatics, 2023, second revision.
+7. Luo W, Hu T, Ye Y, et al. A hybrid predictive maintenance approach for CNC machine tool driven by Digital Twin[J]. Robotics and Computer-Integrated Manufacturing, 2020, 65: 101974.(IF=10.33)
+8. Luo W, Hu T, Zhang C, et al. Digital twin for CNC machine tool: modeling and using strategy[J]. Journal of Ambient Intelligence and Humanized Computing, 2019, 10: 1129-1140.
 
-[1]Luo W, Huang K, Liang X, et al. Process Manufacturing Intelligence Empowered by Industrial Metaverse: A survey[J]. IEEE Transactions on Cybernetics, 2023, minor revision.
-
-[2]Luo W, Liang X, Huang K, et al. Soft sensing framework for key variables in zinc rotary kiln based on digital twin [J]. IEEE Transactions on Industrial Informatics, 2023, second revision.
-[3]Luo W, Hu T, Ye Y, et al. A hybrid predictive maintenance approach for CNC machine tool driven by Digital Twin[J]. Robotics and Computer-Integrated Manufacturing, 2020, 65: 101974.(IF=10.33)
-[4]Luo W, Hu T, Zhang C, et al. Digital twin for CNC machine tool: modeling and using strategy[J]. Journal of Ambient Intelligence and Humanized Computing, 2019, 10: 1129-1140.
-[5]骆伟超,梁骁俊,张超波等. 基于数字孪生的锌回转窑关键变量软测量方法[C] 第33届中国过程控制会议论文集. 2022:1695.DOI:10.26914/c.cnkihy.2022.067627.
 
 Recruitment announcement
 ======
